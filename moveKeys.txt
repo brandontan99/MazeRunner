@@ -1,0 +1,4 @@
+arrow keys to move
+"E" = quit game
+"P" = pause game
+"V" = visibility
